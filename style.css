@@ -1,0 +1,56 @@
+.travel_places {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_places img {
+    width: 80%;
+}
+
+.travel_places hr {
+    width: 230px;
+}
+
+.travel_places h5,
+.travel_places p {
+    margin-left: 20px;
+}
+
+#mynavbar {
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+    background: black;
+    text-decoration: none;
+}
+
+.links {
+    font-size: 25px;
+    text-decoration: none;
+    float: left;
+    color: white;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    display: inline;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
